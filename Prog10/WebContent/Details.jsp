@@ -31,7 +31,7 @@
 	  et.printStackTrace();
   }
 %>
-<br><br>
+<br><br><br>
 <a href="reserveOnline.jsp">Click here to get Details</a>
 </body>
 </html>
