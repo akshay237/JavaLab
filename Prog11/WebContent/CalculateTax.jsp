@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Calculation of Tax</title>
+<title>Calculation of Tax for Working Employees</title>
 </head>
 <body>
 <%
